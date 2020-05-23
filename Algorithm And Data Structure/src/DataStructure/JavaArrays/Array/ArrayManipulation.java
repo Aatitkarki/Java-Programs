@@ -1,4 +1,4 @@
-package DataStructure.JavaArrays;
+package DataStructure.JavaArrays.Array;
 import java.util.Scanner;
 
 public class ArrayManipulation {
@@ -127,4 +127,5 @@ public class ArrayManipulation {
         }
 
     }
+
 }
